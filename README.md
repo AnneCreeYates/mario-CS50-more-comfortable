@@ -6,7 +6,12 @@ The code requests the user to provide a positive integer between 1 and 8 inclusi
 Example:
 $ ./mario
 Height: 4
+
 "   #  #
+
 "  ##  ##
+
 " ###  ###
-"####  #### 
+
+"####  ####
+
